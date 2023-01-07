@@ -1,0 +1,9 @@
+{
+  "name": "public-zenn-content",
+  "description": "",
+  "author": "KAZYPinkSaurus",
+  "license": "ISC",
+  "dependencies": {
+    "zenn-cli": "^0.1.134"
+  }
+}
