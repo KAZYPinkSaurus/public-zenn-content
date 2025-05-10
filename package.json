@@ -1,9 +1,24 @@
 {
   "name": "public-zenn-content",
-  "description": "",
+  "description": "* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)",
   "author": "KAZYPinkSaurus",
   "license": "ISC",
   "dependencies": {
-    "zenn-cli": "^0.1.137"
-  }
+    "zenn-cli": "^0.1.159"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KAZYPinkSaurus/public-zenn-content.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KAZYPinkSaurus/public-zenn-content/issues"
+  },
+  "homepage": "https://github.com/KAZYPinkSaurus/public-zenn-content#readme"
 }
